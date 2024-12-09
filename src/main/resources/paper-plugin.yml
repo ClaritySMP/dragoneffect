@@ -1,0 +1,4 @@
+name: dragoneffect
+version: '1.0-SNAPSHOT'
+main: org.neo.dragoneffect.Dragoneffect
+api-version: '1.21'

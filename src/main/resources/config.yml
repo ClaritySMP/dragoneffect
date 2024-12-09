@@ -1,0 +1,9 @@
+# config for draggoneffect
+dragon-egg:
+  effect: "SPEED" # The potion effect to apply (e.g., SPEED, INCREASE_DAMAGE, etc.)
+  amplifier: 1             # Strength of the effect
+  duration: -1             # Duration in ticks; use -1 for infinite
+  title-message: "You possess the Dragon Egg!"
+  subtitle-message: "Feel the power surging through you!"
+  stolen-title-message: "The Dragon Egg has been stolen!"
+  stolen-subtitle-message: "Your power fades..."
